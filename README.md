@@ -1,2 +1,2 @@
-# ArfendoDhimas.github.io
-My Personal Profile
+# arfendodhimas.github.io
+My Personal Profile Website
